@@ -43,8 +43,8 @@ Run order: data cleaning → EDA (optional) → PCA → models
 
 Note:
 
-· SVM and Neural Network may take a few minutes.
+- SVM and Neural Network may take a few minutes.
 
-· Output files (models, plots, reports) are saved automatically.
+- Output files (models, plots, reports) are saved automatically.
 
-· If a file is missing, rerun the related notebook.
+- If a file is missing, rerun the related notebook.
